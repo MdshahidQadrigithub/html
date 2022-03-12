@@ -1,0 +1,32 @@
+body{
+
+	background-color: gray;
+}
+
+h1
+{
+
+	color: tomato;
+	font-size: 350%;
+	font-family: cursive;
+}
+
+p
+{
+	color: blue;
+	font-family: Castellar;
+	font-size: 600%;
+}
+
+h2
+{
+  font-size: 260%;
+}
+
+p
+{
+	font-family: Bodoni MT;
+	border: 10px solid blue;
+	padding: 22px;
+	margin: 56px;
+}
